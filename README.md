@@ -1,2 +1,2 @@
 # react_MERN_BoilerPlate
-Default template for react apps.
+Default template for MERN react apps.
